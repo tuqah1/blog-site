@@ -1,0 +1,14 @@
+.read-more button {
+    background-color: var(--base-color);
+    padding: 8px;
+    border: solid var(--nav-color) ;
+    border-radius: 5px;
+}
+button  a {
+    color: var(--nav-color);
+    text-decoration: none;
+    background-color: var(--base-color);
+    padding: 8px;
+    
+}
+
